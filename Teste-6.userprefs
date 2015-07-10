@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\CamFollow.cs" Line="18" Column="52" />
+      <File FileName="Assets\Resources\Scripts\PlayerMovement.cs" Line="87" Column="1" />
+      <File FileName="Assets\Resources\Scripts\GCCollision.cs" Line="14" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
